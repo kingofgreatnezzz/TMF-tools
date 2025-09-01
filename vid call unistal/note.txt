@@ -1,0 +1,5 @@
+# commdn to install a deep live cam repo that was archived .. ah got this from yandex legit .. 
+# i have models and other ttools in muabugi gihub repo its publicc..
+wget https://archive.org/download/github.com-iperov-DeepFaceLive_-_2023-05-04_16-25-40/iperov-DeepFaceLive_-_2023-05-04_16-25-40.bundle
+
+https://mega.nz/folder/m10iELBK#Y0H6BflF9C4k_clYofC7yA (for executable)
